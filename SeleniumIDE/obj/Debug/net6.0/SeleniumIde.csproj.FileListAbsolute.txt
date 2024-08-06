@@ -101,3 +101,4 @@ C:\Users\choch0\Desktop\SoftUni\Front-end Test Automation July'24\13.Workshop-CI
 C:\Users\choch0\Desktop\SoftUni\Front-end Test Automation July'24\13.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\1-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.pdb
 C:\Users\choch0\Desktop\SoftUni\Front-end Test Automation July'24\13.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\1-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.genruntimeconfig.cache
 C:\Users\choch0\Desktop\SoftUni\Front-end Test Automation July'24\13.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\1-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\ref\SeleniumIde.dll
+C:\Users\choch0\Desktop\SoftUni\Front-end Test Automation July'24\13.Workshop-CI-System-with-Selenium-Appium-Tests-I-Resources\1-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.sourcelink.json
